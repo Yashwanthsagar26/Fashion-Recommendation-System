@@ -1,2 +1,2 @@
-# Fashion-Recommendation-System
-Fashion Recommendation System for Personalized Style Advice
+# fashion-recommender-system
+A Deep Learning based Fashion Recommender System using the ResNET50
